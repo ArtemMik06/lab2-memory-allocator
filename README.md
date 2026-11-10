@@ -1,6 +1,6 @@
 # Програмний проєкт 2: алокатор пам'яті
 
-**Виконав:** ________________ (ПІБ), група ______
+**Виконав:** Микулінський Артем Віталійович
 
 Мінімалістичний алокатор пам'яті мовою C: `os_malloc()`, `os_calloc()`, `os_realloc()`, `os_free()`.
 Завдання: [open-education-hub / memory-allocator](https://github.com/open-education-hub/operating-systems/tree/main/content/assignments/memory-allocator).
