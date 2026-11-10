@@ -1,0 +1,7 @@
+*.o
+*.so
+tests/out/
+tests/snippets/*.out
+tests/snippets/test-*
+!tests/snippets/test-*.c
+!tests/snippets/test-utils.h
